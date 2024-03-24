@@ -1,0 +1,12 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "C:/Users/wasim/Desktop/Python t&p/alogging2.py", line 7, in <module>
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
+ERROR:root:invalid literal for int() with base 10: 'ten'
+Traceback (most recent call last):
+  File "C:/Users/wasim/Desktop/Python t&p/alogging2.py", line 6, in <module>
+    b=int(input())
+      ^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'ten'

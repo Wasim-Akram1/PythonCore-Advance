@@ -1,0 +1,8 @@
+CRITICAL:root:Critical
+ERROR:root:Error
+WARNING:root:Warning
+INFO:root:Info
+CRITICAL:root:Critical Take action Fast
+ERROR:root:Error Try to solve as fast as possible
+WARNING:root:Warning focus on instruction
+INFO:root:Info take proper information
